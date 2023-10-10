@@ -1,5 +1,6 @@
 import funcs
-PATH = "operations.json"
+
+PATH = 'operations.json'
 
 if __name__ == '__main__':
     # print five last transactions
