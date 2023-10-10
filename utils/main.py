@@ -1,5 +1,5 @@
 import funcs
-PATH = '/home/misha/PycharmProjects/coursework_3/utils/operations.json'
+PATH = "operations.json"
 
 if __name__ == '__main__':
     # print five last transactions
