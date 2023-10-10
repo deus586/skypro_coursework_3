@@ -1,5 +1,5 @@
 from utils.funcs import Transaction
-PATH = '/home/misha/PycharmProjects/coursework_3/utils/operations.json'
+PATH = os.path.join('utils', 'operations.json')
 
 
 def test_date():
