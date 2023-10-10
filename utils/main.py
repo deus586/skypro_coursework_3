@@ -1,4 +1,5 @@
 import funcs
+
 PATH = 'operations.json'
 
 if __name__ == '__main__':
